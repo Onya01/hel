@@ -23,6 +23,7 @@ export default {
 </script>
 
 <style scoped>
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
 #app {
  background: linear-gradient(rgba(0,0,0,0), rgba(0,0,0,.8)), url('~@/assets/backgroud.jpg') no-repeat;
  background-size: cover;
